@@ -106,7 +106,7 @@ About Us Section
 	padding-top: 100px;
 	padding-bottom: 10px;
 	text-align: center;
-	background-image: url(background.jpg);
+	background-image: url("background.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
